@@ -1,0 +1,6 @@
+python: "3.10"
+random_seed: 42
+confidence_min: 0.6
+use_sample_data: false
+data_csv: data/synthetic_fb_ads_undergarments.csv
+sample_csv: data/sample_fb_ads.csv
