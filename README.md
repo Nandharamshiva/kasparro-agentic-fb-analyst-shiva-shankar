@@ -1,4 +1,4 @@
-kasparro-agentic-fb-analyst-shiva-shankar
+### kasparro-agentic-fb-analyst-shiva-shankar
 
 Agentic multi-agent system designed for the Kasparro AI Applied Analyst Assignment.
 This project diagnoses ROAS changes, generates insights, evaluates statistical evidence, and produces new creative concepts for an undergarments brand using a structured LLM-first workflow.
@@ -15,7 +15,7 @@ Virtual environment recommended
 Setup
 python -m venv .venv
 .venv\Scripts\activate   # Windows
-# or
+or
 source .venv/bin/activate  # Mac/Linux
 
 pip install -r requirements.txt
@@ -110,12 +110,12 @@ Attach commit hash & link in the Google Form.
 
 ## 9. Submission Checklist
 
-✔ Repo name:
+Repo name:
 kasparro-agentic-fb-analyst-shiva-shankar
-✔ README formatted using template
-✔ prompts stored in /prompts
-✔ agents modularized in /src/agents
-✔ insights.json, creatives.json, report.md in /reports
-✔ logs present
-✔ PR titled “self-review”
-✔ GitHub release tag v1.0
+1. README formatted using template
+2. prompts stored in /prompts
+3. agents modularized in /src/agents
+4. insights.json, creatives.json, report.md in /reports
+5. logs present
+6. PR titled “self-review”
+7. GitHub release tag v1.0
